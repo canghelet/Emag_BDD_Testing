@@ -1,6 +1,6 @@
 This is the Emag BDD Automation Framework project written in Python.
 
-Site tested: emag.ro
+Site tested: https://www.emag.ro/
 
 Design pattern used: page object model
 
