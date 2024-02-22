@@ -2,6 +2,7 @@ This is the Emag BDD Automation Framework project.
 
 Site tested: emag.ro
 Design pattern used: page object model
+
 Methodology: behavior driven development
 
 Libraries to install:
