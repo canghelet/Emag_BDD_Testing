@@ -13,9 +13,7 @@ pip install webdriver-manager
 
 Run tests:\
 behave -f html -o behave-report.html --tags=emag
-behave -f html -o behave-report.html --tags=search
-behave -f html -o behave-report.html --tags=login1
-behave -f html -o behave-report.html --tags=login2
+
 
 
 
