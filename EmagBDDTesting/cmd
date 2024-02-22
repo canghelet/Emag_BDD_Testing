@@ -1,0 +1,10 @@
+pip install -U selenium
+pip install behave
+pip install behave-html-formatter
+pip install webdriver-manager
+
+run test
+behave -f html -o behave-report.html --tags=emag
+behave -f html -o behave-report.html --tags=search
+behave -f html -o behave-report.html --tags=login1
+behave -f html -o behave-report.html --tags=login2
